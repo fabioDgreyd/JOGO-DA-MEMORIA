@@ -15,10 +15,10 @@ justify-content: center;
 align-items: center;
 gap: 30px;
 background: linear-gradient(0deg,
-#000000 0%,
+#000000d6 0%,
 #0297a1 35%,
 #223434 60%,
-#000000 75%
+#000000e1 75%
 );
 padding: 40px 60px;
 }
