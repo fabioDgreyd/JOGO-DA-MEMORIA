@@ -36,7 +36,7 @@ white-space: nowrap
 padding: 10px 15px;
 width: 100%;
 color: #000;
-background-color: #fff;
+background-color: #ffffffbe;
 border: none;
 font-size: 1.5em;
 letter-spacing: 0.1em;
@@ -46,7 +46,7 @@ font-weight: 600;
 }
 
 .reset:focus {
-    color:#444247;
+    color:#ffffff;
     background-color:#000;
 }
 
